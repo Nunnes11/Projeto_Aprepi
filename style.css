@@ -5,3 +5,19 @@
 .custom-login {
     margin-left: 10px; 
 }
+
+.container {
+    overflow: hidden; /* Limpa o float e mantém a altura da div pai */
+}
+
+.text-container {
+    float: left; /* Faz com que a div de texto flutue à esquerda */
+    width: 60%; /* Define a largura da div de texto */
+}
+
+.image-container {
+    float: left; /* Faz com que a div de imagem flutue à esquerda */
+    width: 40%; /* Define a largura da div de imagem */
+}
+
+/* Estilos adicionais conforme necessário */
