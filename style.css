@@ -5,12 +5,3 @@
 .custom-login {
     margin-left: 10px; 
 }
-
-
-.carousel-inner img {
-    object-fit: cover;
-    object-position: center;
-    max-width: 100%; /* Define a largura máxima da imagem */
-    height: auto; /* Mantém a proporção da imagem */
-    max-height: 300px; /* Ajuste conforme necessário */
-}
