@@ -6,9 +6,9 @@
     margin-left: 10px; 
 }
 
-.container {
-    overflow: hidden; /* Limpa o float e mantém a altura da div pai */
-}
+/* .container {
+    overflow: hidden; 
+} */
 
 .text-container {
     float: left; /* Faz com que a div de texto flutue à esquerda */
