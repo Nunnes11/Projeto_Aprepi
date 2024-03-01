@@ -43,7 +43,7 @@
 }
 
 .rod {
-    background-color: #00B4D8;
+    background-color: #002684;
 }
 
 .rodape {
@@ -74,26 +74,26 @@
 
 
 
-body {
+/* body {
     background-color: #54cbfc;
-}
+} */
 
-.Document {
+/* .Document {
     margin-top: 20%;
     margin-left: 50px;
-}
+} */
 
-.card {
+.carta {
     margin-left: 20%;
     margin-top: 15%;
     background-color:#54cbfc;
 }
 
-.card-body {
+/* .card-body {
     background-color:#54cbfc;
-}
+} */
 
-.link {
+/* .link {
     margin-left: 30%;
     text-decoration: none;
-}
+} */
