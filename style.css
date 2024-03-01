@@ -71,3 +71,29 @@
 #002684
 #00A0DF
 #FFFFFF */
+
+
+
+body {
+    background-color: #54cbfc;
+}
+
+.Document {
+    margin-top: 20%;
+    margin-left: 50px;
+}
+
+.card {
+    margin-left: 20%;
+    margin-top: 15%;
+    background-color:#54cbfc;
+}
+
+.card-body {
+    background-color:#54cbfc;
+}
+
+.link {
+    margin-left: 30%;
+    text-decoration: none;
+}
