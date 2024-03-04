@@ -76,24 +76,24 @@
 
 /* body {
     background-color: #54cbfc;
-} */
+}
 
-/* .Document {
+.Document {
     margin-top: 20%;
     margin-left: 50px;
-} */
+}
 
 .carta {
     margin-left: 20%;
     margin-top: 15%;
     background-color:#54cbfc;
+} 
+
+ .card-body {
+    background-color:#54cbfc;
 }
 
-/* .card-body {
-    background-color:#54cbfc;
-} */
-
-/* .link {
+.link {
     margin-left: 30%;
     text-decoration: none;
 } */
