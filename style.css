@@ -24,14 +24,13 @@
 
 
 
-.bd {
-    background-color: #1e90ff;
+body {
+    background-color: #54cbfc;
 }
 
-.docs {
-    background-color: #1e90ff;
-    margin-top: 10%;
-    margin-left: 25%;
+.Document {
+    margin-top: 20%;
+    margin-left: 50px;
 }
 
 .card {
@@ -45,6 +44,46 @@
 }
 
 .link {
+    margin-left: 30%;
+    text-decoration: none;
+}
+
+
+
+.bd {
+    background-color: #54cbfc;
+}
+
+.docs {
+    background-color: #1e90ff;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+/*.container {
+    margin-top: 20%;
+    margin-left: 25%;
+}*/
+
+.doc {
+    width: 150px;
+    background-color: #1e90ff;
+}
+
+.ata {
+    width: 115px;
+}
+
+.card-body {
+    background-color:#1e90ff;
+}
+
+.link {
     margin-left: 5%;
     text-decoration: none;
+}
+
+.link2 {
+    margin-left: 50%;
+    margin-top: 10%;
 }
