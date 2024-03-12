@@ -21,60 +21,10 @@
 }
 
 /* Estilos adicionais conforme necessário */
-/* Estilos para a classe .container */
-
-/* Estilos para a classe .container */
-
-
-.menu {
-    background-color: #1E90FF;
-}
-
-.noticia {
-    background-color: white;
-}
-
-.historia {
-    background-color: 	#E9ECEF;
-}
-
-.voluntarios {
-    background-color: white;
-}
-
-.rod {
-    background-color: #002684;
-}
-
-.rodape {
-    background-color: #1E90FF;
-}
-
-.quem {
-    background-color: white;
-
-}
-
-.fundo_do_site {
-    background-color: #A9D6E5;
-}
-
-/* #black {
-    background-color: black;
-} */
 
 
 
-/* AZULLLLL
-
-#CAE5F1
-#002684
-#00A0DF
-#FFFFFF */
-
-
-
-/* body {
+body {
     background-color: #54cbfc;
 }
 
@@ -83,18 +33,57 @@
     margin-left: 50px;
 }
 
-.carta {
+.card {
     margin-left: 20%;
     margin-top: 15%;
     background-color:#54cbfc;
-} 
+}
 
- .card-body {
+.card-body {
     background-color:#54cbfc;
 }
 
 .link {
     margin-left: 30%;
     text-decoration: none;
-} */
+}
 
+
+
+.bd {
+    background-color: #54cbfc;
+}
+
+.docs {
+    background-color: #1e90ff;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+/*.container {
+    margin-top: 20%;
+    margin-left: 25%;
+}*/
+
+.doc {
+    width: 150px;
+    background-color: #1e90ff;
+}
+
+.ata {
+    width: 115px;
+}
+
+.card-body {
+    background-color:#1e90ff;
+}
+
+.link {
+    margin-left: 5%;
+    text-decoration: none;
+}
+
+.link2 {
+    margin-left: 50%;
+    margin-top: 10%;
+}
