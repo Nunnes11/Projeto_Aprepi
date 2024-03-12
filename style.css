@@ -24,26 +24,37 @@
 
 
 
-body {
-    background-color: #54cbfc;
+.bd {
+    background-color: #1e90ff;
 }
 
-.Document {
-    margin-top: 20%;
-    margin-left: 50px;
+.docs {
+    background-color: #1e90ff;
+    margin-top: 10%;
+    margin-left: 25%;
 }
 
-.card {
-    margin-left: 20%;
-    margin-top: 15%;
-    background-color:#54cbfc;
+.doc {
+    width: 150px;
+    background-color: #1e90ff;
+    margin-left: -6px;
+}
+
+.ata {
+    width: 115px;
+    margin-left: -10px;
 }
 
 .card-body {
-    background-color:#54cbfc;
+    background-color:#1e90ff;
 }
 
 .link {
-    margin-left: 30%;
+    margin-left: 5%;
     text-decoration: none;
+}
+
+.link2 {
+    margin-left: 45%;
+    margin-top: 20%;
 }
