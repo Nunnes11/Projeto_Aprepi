@@ -1,4 +1,4 @@
-.custom-search {
+custom-search {
     margin-left: 400px;
 }
 
@@ -21,10 +21,60 @@
 }
 
 /* Estilos adicionais conforme necessário */
+/* Estilos para a classe .container */
+
+/* Estilos para a classe .container */
+
+
+.menu {
+    background-color: #1E90FF;
+}
+
+.noticia {
+    background-color: white;
+}
+
+.historia {
+    background-color:   #E9ECEF;
+}
+
+.voluntarios {
+    background-color: white;
+}
+
+.rod {
+    background-color: #002684;
+}
+
+.rodape {
+    background-color: #1E90FF;
+}
+
+.quem {
+    background-color: white;
+
+}
+
+.fundo_do_site {
+    background-color: #A9D6E5;
+}
+
+/* #black {
+    background-color: black;
+} */
 
 
 
-body {
+/* AZULLLLL
+
+#CAE5F1
+#002684
+#00A0DF
+#FFFFFF */
+
+
+
+/* body {
     background-color: #54cbfc;
 }
 
@@ -33,31 +83,30 @@ body {
     margin-left: 50px;
 }
 
-.card {
+.carta {
     margin-left: 20%;
     margin-top: 15%;
     background-color:#54cbfc;
-}
+} 
 
-.card-body {
+ .card-body {
     background-color:#54cbfc;
 }
 
 .link {
     margin-left: 30%;
     text-decoration: none;
-}
-
+} */
 
 
 .bd {
-    background-color: #54cbfc;
+    background-color: #1e90ff;
 }
 
 .docs {
     background-color: #1e90ff;
     margin-top: 10%;
-    margin-left: 25%;
+    margin-left: 20%;
 }
 
 /*.container {
@@ -74,9 +123,9 @@ body {
     width: 115px;
 }
 
-.card-body {
+/* .card-body {
     background-color:#1e90ff;
-}
+} */
 
 .link {
     margin-left: 5%;
@@ -85,5 +134,5 @@ body {
 
 .link2 {
     margin-left: 50%;
-    margin-top: 10%;
+    margin-top: 20%;
 }
