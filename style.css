@@ -128,7 +128,7 @@ custom-search {
 
 
 
-/* body {
+/*body {
     background-color: #54cbfc;
 }
 
@@ -150,12 +150,13 @@ custom-search {
 .link {
     margin-left: 30%;
     text-decoration: none;
-}
+}*/
 
 
+/*-------CSS Transparência-------*/
 
 .bd {
-    background-color: #54cbfc;
+    background-color: #1e90ff;
 }
 
 .docs {
@@ -189,5 +190,35 @@ custom-search {
 
 .link2 {
     margin-left: 50%;
-    margin-top: 10%;
+    margin-top: 20%;
+}
+
+
+/*---------CSS Diretoria---------*/
+
+.principal {
+    margin-top: 40px;
+    margin-left: 25%;
+    font-size: 40px;
+}
+
+.t1 {
+    margin-left: 40%;
+}
+
+.t2 {
+    margin-left: 40%;
+}
+
+.link3 {
+    margin-top: 50px;
+    margin-left: 45%;
+}
+
+.btD {
+    text-decoration: none;
+}
+
+.seta {
+    width: 50px;
 }
