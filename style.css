@@ -1,4 +1,4 @@
-.custom-search {
+custom-search {
     margin-left: 400px;
 }
 
@@ -75,6 +75,60 @@
 
 
 /* body {
+/* Estilos para a classe .container */
+
+/* Estilos para a classe .container */
+
+
+.menu {
+    background-color: #1E90FF;
+}
+
+.noticia {
+    background-color: white;
+}
+
+.historia {
+    background-color:   #E9ECEF;
+}
+
+.voluntarios {
+    background-color: white;
+}
+
+.rod {
+    background-color: #002684;
+}
+
+.rodape {
+    background-color: #1E90FF;
+}
+
+.quem {
+    background-color: white;
+
+}
+
+.fundo_do_site {
+    background-color: #A9D6E5;
+}
+
+/* #black {
+    background-color: black;
+} */
+
+
+
+/* AZULLLLL
+
+#CAE5F1
+#002684
+#00A0DF
+#FFFFFF */
+
+
+
+/*body {
     background-color: #54cbfc;
 }
 
@@ -96,12 +150,13 @@
 .link {
     margin-left: 30%;
     text-decoration: none;
-} */
+}*/
 
 
+/*-------CSS Transparência-------*/
 
 .bd {
-    background-color: #54cbfc;
+    background-color: #1e90ff;
 }
 
 .docs {
@@ -114,14 +169,6 @@
     margin-top: 20%;
     margin-left: 25%;
 }*/
-.carousel-item img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-}
-
-/* Seus outros estilos CSS aqui */
-
 
 .doc {
     width: 150px;
@@ -132,9 +179,9 @@
     width: 115px;
 }
 
-/* .card-body {
+.card-body {
     background-color:#1e90ff;
-} */
+}
 
 .link {
     margin-left: 5%;
@@ -143,5 +190,35 @@
 
 .link2 {
     margin-left: 50%;
-    margin-top: 10%;
+    margin-top: 20%;
+}
+
+
+/*---------CSS Diretoria---------*/
+
+.principal {
+    margin-top: 40px;
+    margin-left: 25%;
+    font-size: 40px;
+}
+
+.t1 {
+    margin-left: 40%;
+}
+
+.t2 {
+    margin-left: 40%;
+}
+
+.link3 {
+    margin-top: 50px;
+    margin-left: 45%;
+}
+
+.btD {
+    text-decoration: none;
+}
+
+.seta {
+    width: 50px;
 }
