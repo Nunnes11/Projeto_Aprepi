@@ -24,3 +24,15 @@ updateCardTime();
 
 // Simular atualização a cada 60 segundos
 setInterval(updateCardTime, 60000);
+
+
+
+
+// document.addEventListener("DOMContentLoaded", function () {
+//     var myCarousel = document.getElementById('carouselExampleIndicators');
+//     var carousel = new bootstrap.Carousel(myCarousel, {
+//         interval: 4000, // Tempo em milissegundos entre cada mudança de slide
+//         wrap: true // Volta para o primeiro slide após o último slide
+//     });
+// });
+
