@@ -150,4 +150,21 @@ custom-search {
     width: 50px;
 }
 
-
+.container1 {
+    display: flex;
+    align-items: center; /* Alinha verticalmente os itens */
+  }
+  
+  /* .foto {
+    /* Estilo para a foto 
+  } */
+  
+  .info {
+    display: flex;
+    flex-direction: column; /* Organiza os nomes verticalmente */
+  }
+  
+  .nome {
+    margin-left: 10px; /* Espaçamento entre a foto e os nomes */
+  }
+  
